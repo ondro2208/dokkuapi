@@ -1,7 +1,8 @@
-
 main
 dokkuapi
 dokkuapi_env
+
+.idea
 
 #Logs
 *.log
